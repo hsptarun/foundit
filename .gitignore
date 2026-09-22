@@ -1,0 +1,29 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+data/foundit_app_dev.json
+
+# Local databases / application data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.json
+
+# Secrets / credentials
+*.pem
+*.key
+*credentials*.json
+service-account*.json
+
+# SQLite temporary files
+*.db-shm
+*.db-wal
+
+# SQLite temporary files
+*.db-shm
+*.db-wal

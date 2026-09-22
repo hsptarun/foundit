@@ -1,0 +1,6 @@
+{
+  "name": "FoundIt",
+  "description": "A lost-and-found matching platform featuring smart match verification, photo uploads, and safe handoff coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Fraunces', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-warm-bg: #F6F3EC;
+  --color-ink: #1B1812;
+  --color-amber-accent: #E8A33D;
+}
+
+.font-fraunces {
+  font-family: 'Fraunces', Georgia, serif;
+  font-optical-sizing: auto;
+}
